@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lap_17_02_2020;
+package lab_17_02_2020;
 
 import java.io.IOException;
 import java.io.PrintWriter;
