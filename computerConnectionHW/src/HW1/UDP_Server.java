@@ -85,7 +85,7 @@ public class UDP_Server {
                 while (true) {
 
                     String sentence = new String(receivePacket.getData());
-                    writeToHistory(this.getName() + " : " + sentence);
+                    writeToHistory("RECEIVED: " + sentence);
                     // get the address from the headder of packet
                     this.IPAddress = receivePacket.getAddress();
                     this.sendPort = receivePacket.getPort();
