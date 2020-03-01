@@ -15,9 +15,8 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- * @file UDP_Server.java
- * @date Feb 24, 2020 , 13:24:00
- * @author Muhammet Alkan
+ *
+ * @author Moaaz
  */
 public class UDP_Server {
 

@@ -1,8 +1,6 @@
 package HW1;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
@@ -12,9 +10,8 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- * @file UDP_Client.java
- * @date Feb 24, 2020 , 13:23:46
- * @author Muhammet Alkan
+ *
+ * @author Moaaz
  */
 public class UDP_Client {
 
